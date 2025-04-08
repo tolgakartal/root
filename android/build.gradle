@@ -30,6 +30,7 @@ android {
 
     defaultConfig {
         minSdkVersion 19
+        namespace 'com.gokul.root'
     }
     lintOptions {
         disable 'InvalidPackage'
